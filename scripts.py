@@ -26,13 +26,13 @@ class Scripted(object):
     ABOUT_TEXT = """
 ╭────[🔅Rᴇɴᴀᴍᴇʀ Bᴏᴛ🔅]───⍟
 │
-├<b>🤖 Bot Name : <a href='https://t.me/Renamer_teleroid_bot'>Rename X2 Bot</a></b>
+├<b>🤖 Bot Name : <a href='https://t.me/SuperRenamerRoBot'>Super Renamer Bot</a></b>
 │
-├<b>📢 Channel : <a href='https://t.me/TeleRoidGroup'>TÉLÉRØÎD</a></b>
+├<b>📢 Group : <a href='https://t.me/TeluguDubbedHorrorMovies2'>Join</a></b>
 │
-├<b>👥 Version : <a href='https://t.me/TeleRoid_Renamer_bot'>0.9.2 beta</a></b>
+├<b>👥 Version : <a href='https://t.me/SuperRenamerRoBot'>Unlimited Version 😅</a></b>
 │
-├<b>💢 Source : <a href='https://github.com/PredatorHackerzZ/Renamer-bot'>Click Here</a></b>
+├<b>💢 Source : <a href='https://github.com/suryaprabhas1245/Renamer-bot'>Click Here</a></b>
 │
 ├<b>🌐 Server : <a href='https://heroku.com'>Heroku</a></b>
 │
@@ -40,9 +40,9 @@ class Scripted(object):
 │
 ├<b>㊙ Language: <a href='https://www.python.org'>Python 3.9.4</a></b>
 │
-├<b>👨‍💻 Developer : <a href='https://t.me/PredatorHackerZ'>@Pred∆tor</a></b>
+├<b>👨‍💻 Developer : <a href='https://t.me/suryaprabhas1245'>@SuryaPrabhas</a></b>
 │
-├<b>🚸 Powered By : <a href='https://t.me/Moviesflixers_DL'>@HindiWebNetwork</a></b>
+├<b>🚸 Powered By : <a href='https://t.me/TeluguDubbedHorrorMovies2'>@TeluguDubbedHorrorMovies2</a></b>
 │
 ╰──────[Thanks 😊]───⍟"""
 
@@ -63,4 +63,4 @@ class Scripted(object):
     REPLY_TO_FILE = "<i>Reply to that media with /rename new name .ext</i>"
     CONTACT_MY_DEVELOPER = "<i>Something Wrong Contact in Support Group @TeleRoid14 😑</i>"
     START_TEXT = "<i>This is a Fastest File Renamer and Converter Bot With Permanant Thumbnail Support💯</i>"
-    UPGRADE_TEXT = "<b>To upgrade your subscription <a href='https://t.me/TeleRoid14'>[ Click Here]</a></b>"
+    UPGRADE_TEXT = "<b>To upgrade your subscription <a href='https://t.me/suryaprabhas1245'>[Click Here]</a></b>"
